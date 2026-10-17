@@ -11,7 +11,7 @@ A single-page static site (`index.html` + `styles.css` + `script.js`) covering:
 
 - Hero with the studio tagline and an animated signal-wave motif
 - The artist roster: **Kario Voss** and **Velvet Blade**, with tap-to-play
-  tracklists (15 tracks) and artist artwork
+  tracklists (starting with two featured tracks — more to come) and artist artwork
 - A short-films section (in production — placeholders for upcoming drops)
 - The 5-episode YouTube launch season (Music, Video, Avatar, Ethics, Money)
 - The house rules — including the 3-second AI-labeling rule

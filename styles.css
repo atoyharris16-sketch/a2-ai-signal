@@ -444,3 +444,4 @@ footer .brand { font-size: 1.4rem; display: block; margin-bottom: 0.8rem; }
 @media (max-width: 720px) {
   .artist, .collab { grid-template-columns: 1fr; }
 }
+.more-soon { color: var(--muted); font-size: 0.88rem; margin-top: 0.9rem; font-style: italic; }
