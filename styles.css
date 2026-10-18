@@ -445,3 +445,13 @@ footer .brand { font-size: 1.4rem; display: block; margin-bottom: 0.8rem; }
   .artist, .collab { grid-template-columns: 1fr; }
 }
 .more-soon { color: var(--muted); font-size: 0.88rem; margin-top: 0.9rem; font-style: italic; }
+.roster-banner { margin-bottom: 1.6rem; }
+.roster-banner img {
+  width: 100%;
+  border-radius: var(--radius);
+  display: block;
+  border: 1px solid var(--line);
+  background: linear-gradient(160deg, #1c1830, #100e1c);
+  min-height: 180px;
+  object-fit: cover;
+}
